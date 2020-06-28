@@ -33,3 +33,9 @@ if __name__ == '__main__':
     lengths = [len(num) for num in numbers]
     print(max(lengths))
 
+# count = 0
+# while n:
+#     n &= n << 1
+#     count += 1
+#
+# print(count)
